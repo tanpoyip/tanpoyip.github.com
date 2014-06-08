@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://yoursite.com/blog/2014/06/08/my-first-octopress-blog/</loc>
+        <loc>http://tanpoyip.github.com/blog/2014/06/08/my-first-octopress-blog/</loc>
         <lastmod>2014-06-08T19:03:59+08:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/blog/archives/</loc>
+        <loc>http://tanpoyip.github.com/blog/archives/</loc>
         <lastmod>2014-06-08T19:03:59+08:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/</loc>
+        <loc>http://tanpoyip.github.com/</loc>
         <lastmod>2014-06-08T19:03:59+08:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/robots.txt</loc>
+        <loc>http://tanpoyip.github.com/robots.txt</loc>
         <lastmod>2014-06-08T18:45:47+08:00</lastmod>
     </url>
 </urlset>
