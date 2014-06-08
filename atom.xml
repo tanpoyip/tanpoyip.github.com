@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[塔伯耶普（TanpoYip）的博客]]></title>
+  <title><![CDATA[塔伯耶普的博客 | TanpoYip's Blog]]></title>
   <link href="http://tanpoyip.github.com/atom.xml" rel="self"/>
   <link href="http://tanpoyip.github.com/"/>
-  <updated>2014-06-08T22:16:43+08:00</updated>
+  <updated>2014-06-08T22:54:06+08:00</updated>
   <id>http://tanpoyip.github.com/</id>
   <author>
     <name><![CDATA[TanpoYip]]></name>
