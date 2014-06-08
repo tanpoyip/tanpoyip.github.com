@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[塔伯耶普（TanpoYip）的博客]]></title>
-  <link href="http://tanpoyip.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 成长 | 塔伯耶普（TanpoYip）的博客]]></title>
+  <link href="http://tanpoyip.github.com/blog/categories/cheng-chang/atom.xml" rel="self"/>
   <link href="http://tanpoyip.github.com/"/>
   <updated>2014-06-08T21:02:46+08:00</updated>
   <id>http://tanpoyip.github.com/</id>
